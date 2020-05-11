@@ -10,6 +10,7 @@ The app does use third party services that declare their own Terms and Condition
 
 Link to Terms and Conditions of third party service providers used by the app
 
+*   [Facebook](https://www.facebook.com/legal/terms/plain_text_terms)
 *   [Google Play Services](https://policies.google.com/terms)
 *   [AdMob](https://developers.google.com/admob/terms)
 *   [Appodeal](https://www.appodeal.com/home/terms-of-service/)
